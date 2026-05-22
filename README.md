@@ -1,6 +1,6 @@
 # CoreCoder
 
-[English](README.md) | [中文](README_CN.md) | [Claude Code 源码深度导读（7 篇）](article/)
+[Claude Code 源码深度导读（7 篇）](claudecode源码导读/)
 
 [![PyPI](https://img.shields.io/pypi/v/corecoder)](https://pypi.org/project/corecoder/)
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://python.org)
